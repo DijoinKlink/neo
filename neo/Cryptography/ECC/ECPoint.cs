@@ -5,7 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Numerics;
 
-namespace Neo.Cryptography.ECC
+namespace LightningX.Cryptography.ECC
 {
     public class ECPoint : IComparable<ECPoint>, IEquatable<ECPoint>, ISerializable
     {
