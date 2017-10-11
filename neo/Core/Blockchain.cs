@@ -8,7 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Neo.Core
+namespace LightningX.Core
 {
     /// <summary>
     /// 实现区块链功能的基类
