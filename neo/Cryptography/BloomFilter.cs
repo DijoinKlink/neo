@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Linq;
 
-namespace Neo.Cryptography
+namespace LightningX.Cryptography
 {
     public class BloomFilter
     {
