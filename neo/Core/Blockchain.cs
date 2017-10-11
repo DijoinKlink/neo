@@ -1,4 +1,4 @@
-﻿using Neo.Cryptography;
+﻿using LightningX.Cryptography;
 using Neo.Cryptography.ECC;
 using Neo.IO;
 using Neo.IO.Caching;
