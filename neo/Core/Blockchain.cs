@@ -1,5 +1,5 @@
 ﻿using LightningX.Cryptography;
-using Neo.Cryptography.ECC;
+using LightningX.Cryptography.ECC;
 using Neo.IO;
 using Neo.IO.Caching;
 using Neo.SmartContract;
