@@ -1,4 +1,4 @@
-﻿namespace Neo.Cryptography
+﻿namespace LightningX.Cryptography
 {
     internal class MerkleTreeNode
     {
