@@ -3,7 +3,7 @@ using System;
 using System.Linq;
 using System.Security.Cryptography;
 
-namespace Neo.Cryptography
+namespace LightningX.Cryptography
 {
     public class Crypto : ICrypto
     {
